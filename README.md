@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-with-scss-and-flexbox-31vR2JaIQb)
 - Live Site URL: [Github Pages](https://sophie-mc-dev.github.io/interactive-rating-component/)
 
 ## My process
